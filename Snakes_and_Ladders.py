@@ -39,6 +39,8 @@
 ############################################################
 # Solution.
 ############################################################
+
+
 class SnakesLadders(object):
     turn = 1
     player1 = 0
@@ -110,6 +112,7 @@ class SnakesLadders(object):
                 self.turn = 2
             else:
                 self.turn = 1
+
 
 game = SnakesLadders()
 
