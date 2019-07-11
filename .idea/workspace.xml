@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad78c422-145d-4097-b624-b8e78878a54a" name="Default Changelist" comment="" />
+    <list default="true" id="ad78c422-145d-4097-b624-b8e78878a54a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Snakes_and_Ladders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,10 +12,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Snakes_and_Ladders.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2091">
+              <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -30,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Perimeter_of_squares_in_a_rectangle.py" />
         <option value="$PROJECT_DIR$/Adding_Fractions.py" />
         <option value="$PROJECT_DIR$/The_Supermarket_Queue.py" />
         <option value="$PROJECT_DIR$/Double_Cola.py" />
@@ -78,8 +89,9 @@
         <option value="$PROJECT_DIR$/MMU_Copy_Script/copy_v1.0.py" />
         <option value="$PROJECT_DIR$/int32_to_IPv4.py" />
         <option value="$PROJECT_DIR$/Number of trailing zeros of N!.py" />
-        <option value="$PROJECT_DIR$/test2.py" />
         <option value="$PROJECT_DIR$/test3.py" />
+        <option value="$PROJECT_DIR$/Snakes_and_Ladders.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
         <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
@@ -99,7 +111,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CodeWars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test3">
+  <component name="RunManager" selected="Python.test">
     <configuration name="Pick_peaks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,9 +253,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test3" />
-        <item itemvalue="Python.test2" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test3" />
         <item itemvalue="Python.int32_to_IPv4" />
         <item itemvalue="Python.Pick_peaks" />
       </list>
@@ -256,12 +278,12 @@
     <frame x="20" y="63" width="1340" height="648" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49852508" visible="true" weight="0.24961598" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49852508" visible="true" weight="0.24961598" />
       <window_info id="Structure" order="1" sideWeight="0.5014749" side_tool="true" weight="0.24961598" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3291367" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34302327" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3275194" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34302327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,9 +317,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Oldi2/Bit_Counting.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Oldi2/Find_the_divisors!.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -322,11 +341,6 @@
         <state relative-caret-position="-32" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Oldi2/The_Hunger_Games_Zoo_Disaster!.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1984" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Oldi2/Write_Number_in_Expanded_Form.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-32" />
@@ -347,13 +361,7 @@
         <state relative-caret-position="-202" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Which_are_in.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Which_are_in.py" />
     <entry file="file://$PROJECT_DIR$/Oldi/Adding_Fractions.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -399,13 +407,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Real_Password_Cracker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Real_Password_Cracker.py" />
     <entry file="file://$PROJECT_DIR$/Oldi/The_Supermarket_Queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -418,100 +420,22 @@
         <state relative-caret-position="-816" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Weight_for_weight.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Weight_for_weight.py" />
     <entry file="file://$PROJECT_DIR$/test4.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vasya_Clerk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Find_the_unique_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Moving_Zeros_To_The_End.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Buddy_Pairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Directions_Reduction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1479">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pick_peaks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Human_Readable_Time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ADFGX_Simplified.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Next_bigger_number_with_the_same_digits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/The_observed_PIN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Valid_Parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RGB_To_Hex_Conversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Vasya_Clerk.py" />
+    <entry file="file://$PROJECT_DIR$/Find_the_unique_number.py" />
+    <entry file="file://$PROJECT_DIR$/Moving_Zeros_To_The_End.py" />
+    <entry file="file://$PROJECT_DIR$/Buddy_Pairs.py" />
+    <entry file="file://$PROJECT_DIR$/Directions_Reduction.py" />
+    <entry file="file://$PROJECT_DIR$/Pick_peaks.py" />
+    <entry file="file://$PROJECT_DIR$/Human_Readable_Time.py" />
+    <entry file="file://$PROJECT_DIR$/ADFGX_Simplified.py" />
+    <entry file="file://$PROJECT_DIR$/Next_bigger_number_with_the_same_digits.py" />
+    <entry file="file://$PROJECT_DIR$/The_observed_PIN.py" />
+    <entry file="file://$PROJECT_DIR$/Valid_Parentheses.py" />
+    <entry file="file://$PROJECT_DIR$/RGB_To_Hex_Conversion.py" />
     <entry file="file://$PROJECT_DIR$/MMU_Copy_Script/Copy_v0.1" />
     <entry file="file://$PROJECT_DIR$/MMU_Copy_Script/gurbage1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -582,9 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test3.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -595,8 +516,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Oldi2/The_Hunger_Games_Zoo_Disaster!.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="81" column="34" lean-forward="true" selection-start-line="71" selection-start-column="4" selection-end-line="81" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Snakes_and_Ladders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
