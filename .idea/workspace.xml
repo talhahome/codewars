@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad78c422-145d-4097-b624-b8e78878a54a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/New Cashier Does Not Know About Space or Shift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matching_And_Substituting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,24 +14,15 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CHEAT_SHEET.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="83" selection-start-line="83" selection-end-line="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/New Cashier Does Not Know About Space or Shift.py">
+        <entry file="file://$PROJECT_DIR$/Matching_And_Substituting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="765">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -56,7 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/The_Supermarket_Queue.py" />
         <option value="$PROJECT_DIR$/Double_Cola.py" />
         <option value="$PROJECT_DIR$/Gap_in_Primes.py" />
         <option value="$PROJECT_DIR$/Scramblies.py" />
@@ -103,10 +93,11 @@
         <option value="$PROJECT_DIR$/Number of trailing zeros of N!.py" />
         <option value="$PROJECT_DIR$/MMU_Copy_Script/copy_v1.0.py" />
         <option value="$PROJECT_DIR$/Snakes_and_Ladders.py" />
+        <option value="$PROJECT_DIR$/New Cashier Does Not Know About Space or Shift.py" />
         <option value="$PROJECT_DIR$/test2.py" />
         <option value="$PROJECT_DIR$/test3.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/New Cashier Does Not Know About Space or Shift.py" />
+        <option value="$PROJECT_DIR$/Matching_And_Substituting.py" />
       </list>
     </option>
   </component>
@@ -159,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.test2">
     <configuration name="Snakes_and_Ladders" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CodeWars" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -267,9 +258,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.test3" />
         <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Snakes_and_Ladders" />
         <item itemvalue="Python.int32_to_IPv4" />
       </list>
@@ -342,29 +333,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Oldi2/Find_The_Parity_Outlier.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Oldi2/Last_digit_of_a_large_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-318" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Oldi2/Replace_With_Alphabet_Position.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Oldi2/Simple_Pig_Latin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Oldi2/Write_Number_in_Expanded_Form.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Oldi2/Write_Number_in_Expanded_Form_Part 2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-321" />
@@ -544,6 +512,18 @@
         <state relative-caret-position="-831" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/New Cashier Does Not Know About Space or Shift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Docs/#SOURCES/a2i_am_ws/13072019/prescription.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25856" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CHEAT_SHEET.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -551,19 +531,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/sre_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="487" selection-start-line="487" selection-end-line="487" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/sre_compile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="763" selection-start-line="763" selection-end-line="763" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/New Cashier Does Not Know About Space or Shift.py">
+    <entry file="file://$PROJECT_DIR$/Matching_And_Substituting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="765">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
